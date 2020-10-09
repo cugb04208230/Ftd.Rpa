@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftd.Rpa.Management", "Ftd.Rpa.Management\Ftd.Rpa.Management.csproj", "{38AB1F96-A7C8-4520-869D-B948BC78443D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F69E8481-C097-4982-9564-04419F605C28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{98211A08-1EA2-47A3-AE87-739D58BEB9FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B9D7A019-6FD2-435C-957B-AA458C1C3331}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{2B440DF8-AA2B-4280-8F58-22E6A03F7B0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionalTests", "FunctionalTests", "{86577E17-2EA5-40B9-84AD-BABC49406C0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{B6386A72-63E7-4C66-AF0A-77424B075ECA}"
+	ProjectSection(SolutionItems) = preProject
+		Docker\Dockerfile = Docker\Dockerfile
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftd.Rpa.Localization", "Common\Ftd.Rpa.Localization\Ftd.Rpa.Localization.csproj", "{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftd.Rpa.BaseModel", "Common\Ftd.Rpa.BaseModel\Ftd.Rpa.BaseModel.csproj", "{5C3DEB49-3291-4283-9FDE-28D644A2164C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftd.Rpa.HttpContext", "Common\Ftd.Rpa.HttpContext\Ftd.Rpa.HttpContext.csproj", "{A369DB9A-1097-48AA-96BC-C61DCC1E78F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AB1F96-A7C8-4520-869D-B948BC78443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AB1F96-A7C8-4520-869D-B948BC78443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AB1F96-A7C8-4520-869D-B948BC78443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AB1F96-A7C8-4520-869D-B948BC78443D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3DEB49-3291-4283-9FDE-28D644A2164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3DEB49-3291-4283-9FDE-28D644A2164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3DEB49-3291-4283-9FDE-28D644A2164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3DEB49-3291-4283-9FDE-28D644A2164C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A369DB9A-1097-48AA-96BC-C61DCC1E78F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A369DB9A-1097-48AA-96BC-C61DCC1E78F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A369DB9A-1097-48AA-96BC-C61DCC1E78F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A369DB9A-1097-48AA-96BC-C61DCC1E78F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B440DF8-AA2B-4280-8F58-22E6A03F7B0C} = {B9D7A019-6FD2-435C-957B-AA458C1C3331}
+		{86577E17-2EA5-40B9-84AD-BABC49406C0A} = {B9D7A019-6FD2-435C-957B-AA458C1C3331}
+		{2C1CD432-E82D-4E48-8EB8-AC1FFC2E83BF} = {98211A08-1EA2-47A3-AE87-739D58BEB9FB}
+		{5C3DEB49-3291-4283-9FDE-28D644A2164C} = {98211A08-1EA2-47A3-AE87-739D58BEB9FB}
+		{A369DB9A-1097-48AA-96BC-C61DCC1E78F6} = {98211A08-1EA2-47A3-AE87-739D58BEB9FB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E82C034-DC4C-49AB-A33F-AD9AA1A24B37}
+	EndGlobalSection
+EndGlobal
