@@ -6,3 +6,6 @@
 /Common/Ftd.Rpa.Localization/bin
 /Ftd.Rpa.Management/obj
 /Ftd.Rpa.Management/bin
+/Services/Ftd.Rpa.ApiGateway/obj
+/Services/Ftd.Rpa.ApiGateway/bin/Debug/netcoreapp3.1
+/.vs/Ftd.Rpa/v16
