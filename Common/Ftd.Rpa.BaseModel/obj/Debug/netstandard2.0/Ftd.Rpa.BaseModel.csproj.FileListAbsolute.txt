@@ -1,9 +1,0 @@
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\bin\Debug\netstandard2.0\Ftd.Rpa.BaseModel.deps.json
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\bin\Debug\netstandard2.0\Ftd.Rpa.BaseModel.dll
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\bin\Debug\netstandard2.0\Ftd.Rpa.BaseModel.pdb
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.csprojAssemblyReference.cache
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.csproj.CoreCompileInputs.cache
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.AssemblyInfoInputs.cache
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.AssemblyInfo.cs
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.dll
-D:\DoWork\GitHub\FtdRpa\Ftd.Rpa\Common\Ftd.Rpa.BaseModel\obj\Debug\netstandard2.0\Ftd.Rpa.BaseModel.pdb
